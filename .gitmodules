@@ -16,3 +16,6 @@
 [submodule "Specs"]
 	path = Specs
 	url = https://github.com/CocoaPods/Specs
+[submodule "Docs"]
+	path = Docs
+	url = git@github.com:CocoaPods/cocoapods.github.com.git
