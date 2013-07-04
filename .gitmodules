@@ -1,0 +1,18 @@
+[submodule "CocoaPods"]
+	path = CocoaPods
+	url = git@github.com:CocoaPods/CocoaPods.git
+[submodule "Core"]
+	path = Core
+	url = git@github.com:CocoaPods/Core.git
+[submodule "cocoapods-downloader"]
+	path = cocoapods-downloader
+	url = git@github.com:CocoaPods/cocoapods-downloader.git
+[submodule "Xcodeproj"]
+	path = Xcodeproj
+	url = https://github.com/CocoaPods/Xcodeproj
+[submodule "CLAide"]
+	path = CLAide
+	url = https://github.com/CocoaPods/CLAide
+[submodule "Specs"]
+	path = Specs
+	url = https://github.com/CocoaPods/Specs
