@@ -1,0 +1,15 @@
+PATH
+  remote: /Users/fabio/Desktop/changelogs/Ruby Tool
+  specs:
+    changelogs (0.0.1)
+
+GEM
+  specs:
+    rake (10.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  changelogs!
+  rake
